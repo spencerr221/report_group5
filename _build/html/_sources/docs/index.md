@@ -14,15 +14,15 @@ Instructions for how to build them from source can be found in the Jupyter Book 
 
 +++
 
-The book is published by [GitLab pages](https://docs.gitlab.com/ee/user/project/pages/) at  
-> <https://ccha23.gitlab1.pages.cs.cityu.edu.hk/cs5483jupyter>
+The book is published by GitHub pages at  
+> <https://spencerr221.github.io/report_group5/docs/index.html>
 
 +++
 
 The code is available at the repository  
-> <https://gitlab1.cs.cityu.edu.hk/ccha23/cs5483jupyter.git>  
+> <https://github.com/spencerr221/report_group5.git>  
 
-The book is compiled from the jupyter notebooks under the folder [`docs`](https://gitlab1.cs.cityu.edu.hk/ccha23/cs5483jupyter/-/tree/main/docs).
+The book is compiled from the jupyter notebooks under the folder [`docs`](https://github.com/spencerr221/report_group5/tree/main/docs).
 
 +++
 
